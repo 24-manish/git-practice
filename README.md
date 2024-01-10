@@ -6,3 +6,5 @@ its a dummy for practing git  hell yeah
  1.opwefj adfjaedf 
 ## feature breanch
 aod aowdhasdado
+## feature changes
+editied form the github to be checked in vs code
